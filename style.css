@@ -45,7 +45,11 @@ a {
 }
 
 .bg-pink {
-    background-color: #F9F9F9; /* Pink */
+    background-color: #E072A4; /* Pink */
+}
+
+.bg-blue {
+    background-color: #6883BA; /* DarkBlue */
 }
 
 .card {
